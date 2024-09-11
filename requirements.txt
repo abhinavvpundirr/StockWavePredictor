@@ -2,8 +2,8 @@ numpy
 pandas
 matplotlib
 pandas_datareader
-tensorflow
-keras
+tensorflow==2.14.0
+keras==3.3.3
 streamlit
 datetime
 yfinance
