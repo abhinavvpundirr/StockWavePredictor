@@ -2,7 +2,7 @@ numpy
 pandas
 matplotlib
 pandas_datareader
-tensorflow==2.14.0
+tensorflow
 keras==3.3.3
 streamlit
 datetime
